@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://ccosehuz.manus.space)
 [![EV Dashboard](https://img.shields.io/badge/EV%20Dashboard-Live-blue)](https://egjmepcw.manus.space)
-[![DT Dashboard](https://img.shields.io/badge/DT%20Dashboard-Live-purple)](https://bcsnqnam.manus.space)
+[![DT Dashboard](https://img.shields.io/badge/DT%20Dashboard-Live-purple)](https://digital-transformation-dashboard.vercel.app)
 
 ## 🎯 Overview
 
@@ -38,7 +38,7 @@ This portfolio showcases two comprehensive consulting projects designed to demon
 - ⏱️ **Payback**: 4.2 months
 - 📊 **NPV**: $685M at 10% discount rate
 
-**[📱 Live Dashboard](https://bcsnqnam.manus.space)** | **[📄 Case Study PDF](./documents/digital_transformation_case_study.pdf)**
+**[📱 Live Dashboard](https://digital-transformation-dashboard.vercel.app)** | **[📄 Case Study PDF](./documents/digital_transformation_case_study.pdf)**
 
 ## 🛠️ Technical Stack
 
@@ -87,7 +87,7 @@ elite-consulting-portfolio/
 - Regional adoption data
 - Strategic recommendations
 
-**[💰 Digital Transformation ROI](https://your-dt-dashboard-url.com)**
+**[💰 Digital Transformation ROI](https://digital-transformation-dashboard.vercel.app)**
 - Interactive financial modeling
 - McKinsey 7-S progress tracking
 - Scenario analysis tools
@@ -184,7 +184,6 @@ npm run dev
 
 **Ready for MSBA applications and MBB interviews!**
 
-- 📧 **Email**: [your.email@example.com]
 - 💼 **LinkedIn**: [linkedin.com/in/yourprofile]
 - 🌐 **Portfolio**: [your-portfolio-url.com]
 
