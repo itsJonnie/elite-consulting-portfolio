@@ -184,7 +184,7 @@ npm run dev
 
 **Ready for MSBA applications and MBB interviews!**
 
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile]
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/jonathan-sher/]
 - 🌐 **Portfolio**: [your-portfolio-url.com]
 
 ---
