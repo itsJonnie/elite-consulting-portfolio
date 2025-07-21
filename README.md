@@ -4,7 +4,7 @@
 > Demonstrating consulting excellence for MSBA applications and top-tier recruiting
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://ccosehuz.manus.space)
-[![EV Dashboard](https://img.shields.io/badge/EV%20Dashboard-Live-blue)](https://egjmepcw.manus.space)
+[![EV Dashboard](https://img.shields.io/badge/EV%20Dashboard-Live-blue)](https://ev-market-dashboard.vercel.app)
 [![DT Dashboard](https://img.shields.io/badge/DT%20Dashboard-Live-purple)](https://digital-transformation-dashboard.vercel.app)
 
 ## 🎯 Overview
@@ -28,7 +28,7 @@ This portfolio showcases two comprehensive consulting projects designed to demon
 - 🌍 **Regional Analysis**: 6 key markets analyzed
 - ⚡ **Growth Rate**: 27% YoY unit sales
 
-**[📱 Live Dashboard](https://egjmepcw.manus.space)** | **[📄 Case Study PDF](./documents/ev_market_analysis.pdf)**
+**[📱 Live Dashboard](https://ev-market-dashboard.vercel.app)** | **[📄 Case Study PDF](./documents/ev_market_analysis.pdf)**
 
 ### 2. Digital Transformation ROI Model
 **McKinsey 7-S Framework | Financial Modeling | Change Management**
